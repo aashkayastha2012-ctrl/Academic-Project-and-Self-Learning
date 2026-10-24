@@ -9,9 +9,10 @@ Descriptions of the projects and concepts I have developed individually or colla
 
 https://drive.google.com/drive/folders/1HPpDnBe-R5OZpfeZ3JiIsU99ozAeytrM?usp=sharing
 
-Author
+Author<br>
 
-Aashutosh Kayastha
-aash.kayastha2012@gmail.com
-https://www.linkedin.com/in/aashutosh-kayastha-01513131a
-Department of Electrical and Electronic Engineering (Communication)
+Aashutosh Kayastha<br>
+
+aash.kayastha2012@gmail.com<br>
+https://www.linkedin.com/in/aashutosh-kayastha-01513131a<br>
+Department of Electrical and Electronic Engineering (Communication)<br>
